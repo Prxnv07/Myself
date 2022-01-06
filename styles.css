@@ -1,0 +1,173 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+  background-color: #F4F9F9;
+}
+
+.topcontainer {
+  background-color: #CCF2F4;
+  position: relative;
+  padding-top: 180px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.9rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.3rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+p {
+  font-size: 1.1rem;
+  line-height: 2;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottomcloud {
+  position: absolute;
+  width: 13%;
+  left: 150px;
+  bottom: 300px;
+}
+
+.topcloud {
+  position: absolute;
+  width: 13%;
+  right: 100px;
+  top: 50px;
+}
+
+.land {
+  width: 55%;
+  margin-top: 100px;
+}
+
+.mypic {
+  width: 20%;
+}
+
+.footer-link{
+  color: #11999E;
+}
+.footer-link:hover{
+  color: #F4F9F9;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 150px auto 100px auto;
+  text-align: left;
+}
+
+.cook {
+  width: 25%;
+  float: left;
+  margin-right: 25px;
+}
+
+.mic {
+  width: 25%;
+  float: right;
+  margin-left: 25px;
+}
+
+.web {
+  width: 25%;
+  float: right;
+  margin-left: 25px;
+}
+
+.game {
+  width: 25%;
+  float: left;
+  margin-right: 25px;
+}
+
+.intro {
+  width: 35%;
+  margin: auto;
+}
+
+hr {
+  border: dotted 6px;
+  width: 4%;
+  border-bottom: none;
+  color: #D3DEDC;
+  margin: 100px auto;
+}
+
+.skills {
+  margin-bottom: 200px;
+}
+
+.btn {
+  -webkit-border-radius: 12;
+  -moz-border-radius: 12;
+  border-radius: 12px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 19px;
+  background: #87dee8;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #19c2e0;
+  background-image: -webkit-linear-gradient(top, #19c2e0, #12d9e0);
+  background-image: -moz-linear-gradient(top, #19c2e0, #12d9e0);
+  background-image: -ms-linear-gradient(top, #19c2e0, #12d9e0);
+  background-image: -o-linear-gradient(top, #19c2e0, #12d9e0);
+  background-image: linear-gradient(to bottom, #19c2e0, #12d9e0);
+  text-decoration: none;
+}
+
+.contactmessage {
+  width: 30%;
+  margin: 60px auto 100px;
+}
+
+.bottom-container{
+  background-color: #A4EBF3;
+  padding: 50px 0 10px 0;
+  margin: 0;
+}
+
+a{
+ font-family: 'Montserrat', sans-serif;
+ margin: 10px 20px;
+ text-decoration: none;
+ font-size: 19px;
+}
+
+.copyright{
+  padding-top: 20px;
+  padding-bottom: 10px;
+  margin-bottom: 0;
+  font-size: 15px;
+  color: white;
+}
+.contact{
+  margin-top: 50px;
+}
